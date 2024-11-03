@@ -2,20 +2,22 @@
     "product": {
         "data": [
             {
-                "name": "Sữa chua tách dừa lá dứa",
-                "price": "12.000đ - 201.000đ",
-                "image": "img/schua tạch dừa lá dứa.png"
-            },
-            {
+                "name": "Sữa chua thạch dừa lá dứa",
+                "price": "30.000",
+                "image": "img/scthachdua.png"
+              },
+          
+              {
                 "name": "Sữa chua trái cây",
-                "price": "18.000đ - 202.000đ",
-                "image": "img/schua trái cây.png"
-            },
-            {
+                "price": "30.000",
+                "image": "img/sctraicay.png"
+              },
+          
+              {
                 "name": "Sữa chua việt quốc",
-                "price": "12.000đ - 201.000đ",
-                "image": "img/schua việt quốc.png"
-            }
+                "price": "33.000",
+                "image": "img/scvietquoc.png"
+              }
         ]
     }
 }
